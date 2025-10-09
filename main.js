@@ -8,11 +8,10 @@ const addressTwo = "0xA370F5A510a8DbB1a2955940A6d96D123e4AA97c";
 const amount = "0.1";
 const index = 0;
 
-// // blockchain functions
+// blockchain functions
 
 // getBlocknumber();
-// getBalance("0x01d86aedc8e126bb123e8dc4aa68f40186482f68");
-// console.log(amount);
+// getBalance("0x01d86aedc8e126bb123e8dc4aa68f40186482f68"); // contract address
 // // view functions
 
 // getNum();
@@ -27,4 +26,4 @@ const index = 0;
 // decreaseNum();
 // mapStr();
 // pushAddress();
-sendTo(addressTwo, amount);
+// sendTo(addressTwo, amount);
